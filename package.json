@@ -1,0 +1,12 @@
+{
+  "name": "status-code-apis",
+  "version": "1.0.0",
+  "description": "Express server with endpoints returning various HTTP status codes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
